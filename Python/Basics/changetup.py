@@ -1,0 +1,8 @@
+t = (1, 2, 3, 4, 5, 3, 5, 334)
+temp = list(t)
+print(t)
+temp.insert(0, 230)
+temp.pop(6)
+print(temp)
+t = tuple(temp)
+print(t)
