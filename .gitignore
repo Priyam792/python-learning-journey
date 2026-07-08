@@ -1,2 +1,4 @@
 .env.txt
 __pycache__/
+Numpy/.ipynb_checkpoints/
+Numpy/.virtual_documents/
