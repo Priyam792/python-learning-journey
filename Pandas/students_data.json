@@ -1,0 +1,37 @@
+[
+    {
+        "ID": 101,
+        "Name": "Alice",
+        "Age": 25,
+        "City": "Delhi",
+        "Marks": 88
+    },
+    {
+        "ID": 102,
+        "Name": "Bob",
+        "Age": 30,
+        "City": "Mumbai",
+        "Marks": 92
+    },
+    {
+        "ID": 103,
+        "Name": "Charlie",
+        "Age": 22,
+        "City": "Bangalore",
+        "Marks": 81
+    },
+    {
+        "ID": 104,
+        "Name": "David",
+        "Age": 28,
+        "City": "Chennai",
+        "Marks": 75
+    },
+    {
+        "ID": 105,
+        "Name": "Eva",
+        "Age": 24,
+        "City": "Jaipur",
+        "Marks": 95
+    }
+]
